@@ -1,8 +1,7 @@
-# React + Vite
+## Introducción
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto se basa en el laboratorio [Build a React App with AWS Amplify and GraphQL](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/). En este laboratorio, se utiliza **AWS Amplify**, una plataforma que permite a los desarrolladores crear aplicaciones web y móviles de manera rápida y sencilla, integrando servicios de AWS como la autenticación, el almacenamiento de datos y las APIs GraphQL.
 
-Currently, two official plugins are available:
+La aplicación está construida con **React**, una popular biblioteca de JavaScript para construir interfaces de usuario interactivas y dinámicas. React facilita el desarrollo de componentes reutilizables, lo que mejora la organización del código y la escalabilidad de la aplicación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para activar el proyecto, es necesario configurar AWS Amplify, lo que implica crear un perfil y desplegar los recursos necesarios en la nube. Esto permite que la aplicación se comunique de manera efectiva con el backend de AWS y gestione los datos de los usuarios.
